@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hei,
 
-![Image of fast.ai logo](images/logo.png)
+Olen 38-vuotias, lähes koko elämäni tietokoneiden parissa kaikenlaista tehnyt. Ohjelmoinnin ja sen opiskelun aloitin vakavissani kuitenkin vasta kolmisen vuotta sitten. Tekoälyn historiaa, teoriaa ja perustietoa alkaa olla kerääntynyt nyt on aika opetella sen toimintaa käytännössä.
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Tämä blogi on oppimispäiväkirjani tekoälyn ohjelmoinnista Pythonilla ja sen pitkälle kehitetyillä tekoälykirjastoilla, fast.ai:lla ja PyTorchilla.
