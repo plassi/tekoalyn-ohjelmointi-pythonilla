@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Tekoälyn ohjelmointi Pythonilla
-description: Oppimispäiväkirja ohjelmoimaan tekoälyä Pythonilla, fast.ai:lla ja PyTorchilla.
+description: Oppimispäiväkirja syväoppimisesta, eli kuinka opin ohjelmoimaan neuroverkkoja Pythonilla, fast.ai:lla ja PyTorchilla.
 github_username: plassi
 
 baseurl: "/tekoalyn-ohjelmointi-pythonilla"
