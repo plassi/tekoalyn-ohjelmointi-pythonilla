@@ -11,7 +11,7 @@ description: Oppimispäiväkirja ohjelmoimaan tekoälyä Pythonilla, fast.ai:lla
 github_username: plassi
 source: /tekoalyn-ohjelmointi-pythonilla
 
-permalink: /tekoalyn-ohjelmointi-pythonilla/:categories/:year/:month/:day/:slug:output_ext
+permalink: /tekoalyn-ohjelmointi-pythonilla/:slugified_categories/:year/:month/:day/:slug:output_ext
 
 # Email and twitter are optional:
 email:
