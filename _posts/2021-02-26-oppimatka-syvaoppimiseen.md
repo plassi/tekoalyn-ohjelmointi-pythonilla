@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "oppimatka syväoppimiseen"
+by: "Lassi Puurunen"
 date: 2021-02-26 00:00:00 +0300
-categories: pohjatiedot
+categories: perusteita
 ---
 
 # Oppimatka syväoppimiseen
