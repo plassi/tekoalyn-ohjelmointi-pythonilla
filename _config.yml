@@ -9,9 +9,9 @@
 title: Tekoälyn ohjelmointi Pythonilla
 description: Oppimispäiväkirja ohjelmoimaan tekoälyä Pythonilla, fast.ai:lla ja PyTorchilla.
 github_username: plassi
-source: /tekoalyn-ohjelmointi-pythonilla
+source: /tekoalyn-ohjelmointi-pythonilla/
+baseurl: /tekoalyn-ohjelmointi-pythonilla/
 
-permalink: /tekoalyn-ohjelmointi-pythonilla/:slugified_categories/:year/:month/:day/:slug:output_ext
 
 # Email and twitter are optional:
 email:
