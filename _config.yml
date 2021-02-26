@@ -46,4 +46,4 @@ kramdown:
   syntax_highlighter: rouge
   
 github:
-  is_project_page: false
+  is_project_page: true
