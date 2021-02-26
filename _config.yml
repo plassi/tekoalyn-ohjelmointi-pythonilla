@@ -6,11 +6,10 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-baseurl: /tekoalyn-ohjelmointi-pythonilla
-
 title: Tekoälyn ohjelmointia Pythonilla
 description: Oppimispäiväkirja tekoälyn ohjelmoinnista Pythonilla, fast.ai:lla ja PyTorchilla.
 github_username: plassi
+baseurl: "/tekoalyn-ohjelmointi-pythonilla"
 
 # Email and twitter are optional:
 email:
