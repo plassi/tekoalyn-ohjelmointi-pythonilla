@@ -5,7 +5,8 @@ Tämä blogi on oppimispäiväkirjani tekoälyn ohjelmoinnista Pythonilla ja sen
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.date | date: "%d. %m. %Y" }} {{ post.title }}</a>
+      {{ post.date | date: "%d.%m.%Y" }}<br>
+      <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
