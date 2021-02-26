@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Matkan alku syväoppimiseen"
+title: "oppimatka syväoppimiseen"
 date: 2021-02-26 00:00:00 +0300
 categories: pohjatiedot
 ---
 
-# Matkan alku syväoppimiseen
+# Oppimatka syväoppimiseen
 
 Olen jo pidempään miettinyt, että opinnoistani tekoälyn parissa voisi olla hyödyllistä kirjoittaa blogia. Hyötyä kirjoittamisesta tulee sekä itselleni, käsitteiden ja ajatusten jäsentämiseksi, että mahdollisesti muillekin vastaavanlaisessa tilanteessa oleville – koodaustaitoisille, joilla on mielenkiintoa koneoppimisen ja tekoälyn alalle, ja jotka nyt etsivät tietä alkuun tai hakevat oppia tositoimiin.
 
@@ -29,6 +29,6 @@ Seuraavassa kirjoituksessa mennään suoraan asiaan. Esittelen, kuinka koulutin 
 
 ## Linkkejä artikkelista
 
-1. [MOOC.fi](https://www.mooc.fi/) Etsi täältä kursseista Data Analysis with Python
+1. [MOOC.fi](https://www.mooc.fi/) Etsi täältä kursseista Data analysis with Python
 2. [Crash Course AI](https://thecrashcourse.com/courses/ai)
 3. [course.fast.ai](https://course.fast.ai/)
