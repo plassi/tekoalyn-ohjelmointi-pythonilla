@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-source: tekoalyn-ohjelmointi-pythonilla/
+baseurl: /tekoalyn-ohjelmointi-pythonilla
 
 title: Tekoälyn ohjelmointia Pythonilla
 description: Oppimispäiväkirja tekoälyn ohjelmoinnista Pythonilla, fast.ai:lla ja PyTorchilla.
