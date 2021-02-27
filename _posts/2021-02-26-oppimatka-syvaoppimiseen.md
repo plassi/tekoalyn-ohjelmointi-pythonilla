@@ -14,17 +14,17 @@ Tässä vaiheessa on sopivaa kertoa hieman omasta taustastani. Olen 1982-vuosima
 
 ## Pohjatietoa
 
-Saadakseen sisällöstä eniten irti, on lukijan hyvä hallita Python-kielen perusteet. Opin itse Pythonin, sekä data-analyysin perusteet https://www.mooc.fi/ -sivustolta löytyvältä Data analysis with Python – kurssilta, jota suosittelen lämpimästi. Tuolta kurssilta saa kätevästi aluksi Pythonin perusteet data-analyysin näkökulmasta, sekä koneoppimisen perusteet.
+Saadakseen sisällöstä eniten irti, on lukijan hyvä hallita Python-kielen perusteet. Opin itse Pythonin, sekä data-analyysin perusteet [MOOC.fi](https://www.mooc.fi/) -sivustolta löytyvältä Data analysis with Python – kurssilta, jota suosittelen lämpimästi. Tuolta kurssilta saa kätevästi aluksi Pythonin perusteet data-analyysin näkökulmasta, sekä koneoppimisen perusteet.
 
-Toinen suositukseni on Youtubessa oleva sarja Crash Course AI. Se on hauskasti toteutettu, erittäin tiivis tietopaketti tekoälystä. Sarjasta saa hyvin katsauksen tekoälyn alasta ja erityisesti neuroverkkojen mahdollisuuksista.
+Nopeana oppina aiheeseen, suosittelen PBS:n tiedeohjelmistoon kuuluvaa sarjaa, [Crash Course AI](https://thecrashcourse.com/courses/ai). Se on hauskasti toteutettu, tiivis tietopaketti tekoälystä. Sarjasta saa hyvin katsauksen tekoälyn alasta ja erityisesti neuroverkkojen mahdollisuuksista.
 
-Opiskeltuani jo aiemmin teoriaa ja myös kokeiltuani itse neuroverkkojen ohjelmointia Tensorflowlla ja Keraksella, etsin hetki sitten tietoa, kuinka aloittaisin neuroverkkojen ja syväoppimisen toteuttamisen käytännössä, oikeissa sovelluksissa. Törmäsin sitten verkkokeskusteluissa fast.ai:n (https://course.fast.ai/) tarjoamiin oppimateriaaleihin. Oppimateriaaliin kuuluvat kirja, dokumentaatiot, videot ja yhteisö, jotka ovat kaikki vapaasti saatavilla.
+Opiskeltuani jo aiemmin teoriaa ja kokeiltuani Tensorflow:n ja Keraksen harjoitusmateriaaleja, etsin tietoa, kuinka aloittaisin neuroverkkojen ja syväoppimisen toteuttamisen käytännössä, oikeissa sovelluksissa. Törmäsin siten verkkokeskusteluissa fast.ai:n [course.fast.ai](https://course.fast.ai/) tarjoamiin oppimateriaaleihin. Oppimateriaaliin kuuluvat kirja, dokumentaatiot, videot ja yhteisö, jotka ovat kaikki vapaasti saatavilla.
 
 ## fast.ai
 
-fast.ai:n materiaali osoittautui heti alusta lähtien hyvin käytännönläheiseksi. Tositoimiin, eli isojen, syväoppivien neuroverkkojen koulutus aloitetaan heti, sivuten samalla koneoppimisen perusteita ja teorioita. Tässä kurssissa on ilmeisesti tarkoitus näyttää kokonaiskuva ensin ja siirtyä sitten yksityiskohtiin. Tällainen toimintatapa on, kurssin pitäjien mukaan, akateemikoille kauhistus. Toisaalta tapa tarkastella asioita ensin käytännön tasolla on erittäin tehokas keino oppia kaivattua käytännön soveltamista. Kurssilla sanottua: ”Voidaksesi ajaa Ferraria, ei sinun tarvitse tietää tarkalleen kuinka sen moottori toimii.” Kurssin pitäjät sanovatkin kurssin sopivan jokaiselle, joilla on perusohjelmointitaito. Muita alkutason vaatimuksia ei periaattessa ole.
+fast.ai:n materiaali osoittautui heti alusta lähtien hyvin käytännönläheiseksi. Tositoimiin, eli isojen, syväoppivien neuroverkkojen koulutus aloitetaan heti, sivuten samalla koneoppimisen perusteita ja teorioita. Tässä kurssissa on ilmeisesti tarkoitus näyttää kokonaiskuva ensin ja siirtyä sitten yksityiskohtiin. Tällainen toimintatapa on, kurssin pitäjien mukaan, akateemiseen opiskelutapaan tottuneille kauhistus. Toisaalta tapa tarkastella asioita ensin käytännön tasolla on tehokas keino oppia kaivattua käytännön soveltamista. Kurssilla sanottua: ”Voidaksesi ajaa Ferraria, ei sinun tarvitse tietää tarkalleen kuinka sen moottori toimii.” Kurssin pitäjät sanovatkin kurssin sopivan jokaiselle, joilla on perusohjelmointitaito. Muita alkutason vaatimuksia ei periaattessa ole.
 
-fast.ai:n oppimateriaaliin liittyvän kirjan toisen luvun loppuun päästessäni, tuli vastaan kappale blogin kirjoittamisen merkityksestä ja hyödyllisyydestä oppijalle, joten tässä sitä nyt ollaan. Tämän blogin tärkein tarkoitus on siis toimia oppimispäiväkirjanani syväoppimisen ja neuroverkkojen alalle.
+fast.ai:n oppimateriaaliin liittyvän kirjan toisen luvun loppuun päästessäni, tuli vastaani kappale blogin kirjoittamisen merkityksestä ja hyödyllisyydestä oppijalle, joten tässä sitä nyt ollaan. Tämän blogin merkitys minulle on toimia oppimispäiväkirjanani syväoppimisen ja neuroverkkojen alalle.
 
 Seuraavassa kirjoituksessa mennään suoraan asiaan. Esittelen, kuinka koulutin neuroverkon tunnistamaan karhulajeja.
 

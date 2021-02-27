@@ -1,6 +1,6 @@
 Tietoa tekoälyn historiasta, teoriasta ja perusteista on jo kerääntynyt ja nyt on aika opetella sen käyttöä.
 
-Tämä blogi on oppimispäiväkirjani tekoälyn ohjelmoinnista Pythonilla ja sen pitkälle kehitetyillä tekoälykirjastoilla, fast.ai:lla ja PyTorchilla.
+Tämä blogi on päiväkirjani oppimismatkasta tekoälyn ohjelmointiin Pythonilla ja sen pitkälle kehitetyillä tekoälykirjastoilla, fast.ai:lla ja PyTorchilla.
 
 <ul>
   {% for post in site.posts %}
