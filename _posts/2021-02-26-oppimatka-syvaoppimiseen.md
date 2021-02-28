@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "oppimatka syväoppimiseen"
+title: "Oppimatka syväoppimiseen"
 author: "Lassi Puurunen"
-date: 2021-02-26 00:00:00 +0300
-categories: perusteet
+date: 2021-03-01 00:00:00 +0000
+tags: päiväkirja oppiminen pohjatietoa linkkejä
 ---
 
 # Oppimatka syväoppimiseen
@@ -14,7 +14,7 @@ Tässä vaiheessa on sopivaa kertoa hieman omasta taustastani. Olen 1982-vuosima
 
 ## Pohjatietoa
 
-Saadakseen sisällöstä eniten irti, on lukijan hyvä hallita Python-kielen perusteet. Opin itse Pythonin, sekä data-analyysin perusteet [MOOC.fi](https://www.mooc.fi/) -sivustolta löytyvältä Data analysis with Python – kurssilta, jota suosittelen lämpimästi. Tuolta kurssilta saa kätevästi aluksi Pythonin perusteet data-analyysin näkökulmasta, sekä koneoppimisen perusteet.
+Saadakseen sisällöstä eniten irti, on lukijan hyvä hallita Python-kielen perusteet. Opin itse Pythonin, sekä data-analyysin perusteet [MOOC.fi](https://www.mooc.fi/) -sivustolta löytyvältä Data analysis with Python – kurssilta, jota suosittelen. Tuolta kurssilta saa kätevästi aluksi Pythonin perusteet data-analyysin näkökulmasta, sekä koneoppimisen perusteet.
 
 Nopeana oppina aiheeseen, suosittelen PBS:n tiedeohjelmistoon kuuluvaa sarjaa, [Crash Course AI](https://thecrashcourse.com/courses/ai). Se on hauskasti toteutettu, tiivis tietopaketti tekoälystä. Sarjasta saa hyvin katsauksen tekoälyn alasta ja erityisesti neuroverkkojen mahdollisuuksista.
 

@@ -1,6 +1,8 @@
-Tietoa tekoälyn historiasta, teoriasta ja perusteista on jo kerääntynyt ja nyt on aika opetella sen käyttöä.
+Tietoa tekoälyn perusteista ja neuroverkkojen teoriasta on jo kerääntynyt ja nyt on aika harjoittaa neuroverkkoja käytännössä.
 
 Tämä blogi on päiväkirjani oppimismatkasta tekoälyn ohjelmointiin Pythonilla ja sen pitkälle kehitetyillä tekoälykirjastoilla, fast.ai:lla ja PyTorchilla.
+
+Tulen kirjoittamaan blogiin lisäksi tekoälyn perusteista ja soveltamisesta, sekä seuraan alan kehitystä.
 
 <ul>
   {% for post in site.posts %}
