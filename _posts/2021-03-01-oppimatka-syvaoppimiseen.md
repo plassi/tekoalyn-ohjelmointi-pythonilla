@@ -8,9 +8,9 @@ tags: päiväkirja oppiminen pohjatietoa linkkejä
 
 # Oppimatka syväoppimiseen
 
-Olen jo pidempään miettinyt, että opinnoistani tekoälyn parissa voisi olla hyödyllistä kirjoittaa blogia. Hyötyä kirjoittamisesta tulisi itselleni käsitteiden ja ajatusten jäsentämiseksi, sekä mahdollisesti muille vastaavanlaisessa tilanteessa oleville – ohjelmointitaitoisille, jotka haluavat tositoimiin tekoälyn ja syväoppivien neuroverkkojen kanssa.
+Olen jo pidempään miettinyt, että opinnoistani tekoälyn parissa voisi olla hyödyllistä kirjoittaa blogia. Hyötyä kirjoittamisesta tulisi itselleni käsitteiden jäsentämiseksi kokonaisuuteen, sekä mahdollisesti muille vastaavanlaisessa tilanteessa oleville – ohjelmointitaitoisille, jotka haluavat tositoimiin tekoälyn ja syväoppivien neuroverkkojen kanssa.
 
-Tässä vaiheessa on sopivaa kertoa hieman omasta taustastani. Olen 1982-vuosimallin tekijä, pelannut tietokoneiden kanssa lähes koko elämäni. Ohjelmointia ja tietojenkäsittelyä tieteenä olen alkanut opiskella järjestelmällisesti kuitenkin vasta 2017. Viimeiset kolme vuotta on mennyt alan opinnoissa korkeakoulussa. Korkeakoulu on antanut paljon näkemystä tietojärjestelmien ja -rakenteiden syvällisempään toimintaan, mutta käytännön opit olen saanut pääasiassa verkossa yleisesti saatavilla olevista materiaaleista, joihin tulen tässä blogissakin pääasiassa nojautumaan.
+Tässä vaiheessa on sopivaa kertoa hieman omasta taustastani. Olen 1982-vuosimallin tekijä, pelannut tietokoneiden kanssa lähes koko elämäni. Ohjelmointia ja tietojenkäsittelyä tieteenä olen alkanut opiskella järjestelmällisesti kuitenkin vasta 2017. Viimeiset kolme vuotta on mennyt alan opinnoissa korkeakoulussa. Korkeakoulu on antanut paljon arvokasta näkemystä tietojärjestelmien ja -rakenteiden syvällisempään toimintaan, mutta käytännön opit olen saanut pääasiassa verkossa yleisesti saatavilla olevista materiaaleista, joihin tulen tässä blogissakin pääasiassa nojautumaan.
 
 ## Pohjatietoa
 
