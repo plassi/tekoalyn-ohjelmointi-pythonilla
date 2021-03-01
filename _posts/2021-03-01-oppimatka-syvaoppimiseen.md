@@ -8,16 +8,15 @@ tags: päiväkirja oppiminen pohjatietoa linkkejä
 
 # Oppimatka syväoppimiseen
 
-Olen jo pidempään miettinyt, että opinnoistani tekoälyn parissa voisi olla hyödyllistä kirjoittaa blogia. Hyötyä kirjoittamisesta tulisi sekä itselleni, käsitteiden ja ajatusten jäsentämiseksi, että mahdollisesti muillekin vastaavanlaisessa tilanteessa oleville – koodaustaitoisille, joilla on mielenkiintoa koneoppimisen ja tekoälyn alalle, ja jotka nyt etsivät tietä alkuun tai hakevat oppia tositoimiin.
+Olen jo pidempään miettinyt, että opinnoistani tekoälyn parissa voisi olla hyödyllistä kirjoittaa blogia. Hyötyä kirjoittamisesta tulisi itselleni käsitteiden ja ajatusten jäsentämiseksi, sekä mahdollisesti muille vastaavanlaisessa tilanteessa oleville – ohjelmointitaitoisille, jotka haluavat tositoimiin tekoälyn ja syväoppivien neuroverkkojen kanssa.
 
-Tässä vaiheessa on sopivaa kertoa hieman omasta taustastani. Olen 1982-vuosimallin tekijä, pelannut tietokoneiden kanssa lähes koko elämäni. Ohjelmointia ja tietojenkäsittelyä tieteenä olen alkanut opiskella järjestelmällisesti kuitenkin vasta 2017. Viimeiset kolme vuotta on mennyt alan opinnoissa korkeakoulussa. Korkeakoulu on antanut paljon näkemystä tietojärjestelmien ja -rakenteiden syvällisempään toimintaan, mutta käytännön opit olen saanut pääasiassa verkossa yleisesti saatavilla olevista materiaaleista, joihin tulen tässä blogissakin nojautumaan.
+Tässä vaiheessa on sopivaa kertoa hieman omasta taustastani. Olen 1982-vuosimallin tekijä, pelannut tietokoneiden kanssa lähes koko elämäni. Ohjelmointia ja tietojenkäsittelyä tieteenä olen alkanut opiskella järjestelmällisesti kuitenkin vasta 2017. Viimeiset kolme vuotta on mennyt alan opinnoissa korkeakoulussa. Korkeakoulu on antanut paljon näkemystä tietojärjestelmien ja -rakenteiden syvällisempään toimintaan, mutta käytännön opit olen saanut pääasiassa verkossa yleisesti saatavilla olevista materiaaleista, joihin tulen tässä blogissakin pääasiassa nojautumaan.
 
 ## Pohjatietoa
 
 Saadakseen sisällöstä eniten irti, on lukijan hyvä hallita ohjelmoinnin perusteet, millä vain ohjelmointikielellä, kuitenkin mieluiten Pythonilla. Mikäli et omaa vielä ohjelmointitaitoa, suosittelen [MOOC.fi](https://www.mooc.fi/) -sivustolta löytyvää Ohjelmoinnin Moocia. Samalta sivultolta löytyvältä, Data analysis with Python -kurssilta, voi oppia perusteet, aluksi Python kielestä, sekä myöhemmin data-analyysista ja koneoppimisesta.
 
 Hieman kevyempänä katsauksena aiheeseen, suosittelen PBS:n tiedeohjelmistoon kuuluvaa sarjaa, [Crash Course AI](https://thecrashcourse.com/courses/ai). Se on hauskasti toteutettu, tiivis tietopaketti tekoälystä. Sarjasta saa kattavan katsauksen tekoälyn alasta ja neuroverkkojen mahdollisuuksista. Sarjan materiaalit mahdollistavat myös esimerkkien harjoittelun käytännön ohjelmoinnin tasolla.
-
 
 Opiskeltuani jo aiemmin teoriaa ja kokeiltuani [Tensorflow:n](https://www.tensorflow.org/tutorials) ja sen korkeamman tason kirjaston, [Keras:n](https://keras.io/getting_started/intro_to_keras_for_engineers/), harjoitusmateriaaleja, etsin tietoa, kuinka aloittaisin neuroverkkojen ja syväoppimisen toteuttamisen käytännössä, oikeissa sovelluksissa. Törmäsin siten verkkokeskusteluissa fast.ai:n [course.fast.ai](https://course.fast.ai/) tarjoamiin oppimateriaaleihin. Oppimateriaaliin kuuluvat kirja, dokumentaatiot, videot ja yhteisö, jotka ovat kaikki vapaasti saatavilla.
 
