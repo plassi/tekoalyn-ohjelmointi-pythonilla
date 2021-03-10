@@ -8,7 +8,7 @@ tags: päiväkirja oppiminen pohjatietoa linkkejä
 
 # Oppimatka syväoppimiseen
 
-Olen jo pidempään miettinyt, että opinnoistani tekoälyn parissa voisi olla hyödyllistä kirjoittaa blogia. Hyötyä kirjoittamisesta tulisi itselleni käsitteiden jäsentämiseksi kokonaisuuteen, sekä mahdollisesti muille vastaavanlaisessa tilanteessa oleville – ohjelmointitaitoisille, jotka haluavat tositoimiin tekoälyn ja syväoppivien neuroverkkojen kanssa.
+Olen jo pidempään miettinyt, että opinnoistani tekoälyn parissa voisi olla hyödyllistä kirjoittaa blogia. Hyötyä kirjoittamisesta tulisi itselleni, käsitteiden jäsentämiseksi kokonaisuuteen, sekä mahdollisesti muille vastaavanlaisessa tilanteessa oleville – ohjelmointitaitoisille, jotka haluavat tositoimiin tekoälyn ja syväoppivien neuroverkkojen kanssa.
 
 Tässä vaiheessa on sopivaa kertoa hieman omasta taustastani. Olen 1982-vuosimallin tekijä, pelannut tietokoneiden kanssa lähes koko elämäni. Ohjelmointia ja tietojenkäsittelyä tieteenä olen alkanut opiskella järjestelmällisesti kuitenkin vasta 2017. Viimeiset kolme vuotta on mennyt alan opinnoissa korkeakoulussa. Korkeakoulu on antanut paljon arvokasta näkemystä tietojärjestelmien ja -rakenteiden syvällisempään toimintaan, mutta käytännön opit olen saanut pääasiassa verkossa yleisesti saatavilla olevista materiaaleista, joihin tulen tässä blogissakin pääasiassa nojautumaan.
 
@@ -26,7 +26,9 @@ fast.ai:n materiaali osoittautui heti alusta lähtien hyvin käytännönläheise
 
 fast.ai:n materiaalissa tuli sitten toisen luvun lopussa vastaan kappale, jossa kerrottiin blogin kirjoittamisen merkityksestä ja hyödyllisyydestä oppijalle. Koska blogin kirjoittamisen hyödyt esitettiin nyt niin vakuuttavasti, tässä sitä nyt sitten ollaan. Aion kirjoittaa tähän blogiin opintomatkastani neuroverkkojen soveltamiseen, sekä niiden perusteista. Tulen myös blogissa seuraamaan tekoälyn alan kehitystä ja pohtimaan sen vaikutuksia laajemmin.
 
-Seuraavassa kirjoituksessa mennään kuitenkin suoraan käytännön asiaan. Esittelen siinä, kuinka koulutin neuroverkon tunnistamaan karhulajeja.
+Seuraavassa artikkelissa mennään kuitenkin suoraan käytännön asiaan. Esittelen siinä, kuinka koulutin neuroverkon tunnistamaan karhulajeja.
+
+Seuraava artikkeli: [Konenäkö v1.0 - osa 1 - Karhuntunnistin konvolutiivisella neuroverkolla]({{ site.baseurl }}/tekoalyn-ohjelmointi-pythonilla/konen%C3%A4k%C3%B6_v1.0/2021/03/11/konenakov1-konvoluutioinen-neuroverkko.html)
 
 ## Linkkejä artikkelista
 
