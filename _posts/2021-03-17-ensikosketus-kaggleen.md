@@ -36,6 +36,8 @@ Sivustolta löytyy [Communities](https://www.kaggle.com/discussion), eli Kagglen
 
 Kagglessa on järjestelmä etenemisen [seurantaan](https://www.kaggle.com/progression). Saavutusten myötä tulevaa, uutta arvonimeä voi tavoitella eri kategorioissa; kilpailuissa, notebookeissa, tietoaineistoissa ja keskusteluissa. Eri osa-alueista saa, osallistumisen tai kilpailuissa menestymisen mukaan, pronssi, hopea tai kultamitaleja. Mitalien määrän karttuessa käyttäjän arvonimi kasvaa noviisista expertin ja masterin kautta aina grandmasteriksi. Saadakseen kultamitalin esimerkiksi kilpailusta, ei sitä tarvitse kuitenkaan voittaa. Tyypillisesti kultamitaliin riittää hieman yli 10 prosentin parhaan tuloksen joukkoon sijoittuminen.
 
+Haluaisitko tietää enemmän jostain Kagglen osa-alueesta? Onko Kaggle sinulle jo ennestään tuttu? Jos haluat jakaa kokemuksiasi tai ajatuksiasi, kerro kommenteissa tai ota yhteyttä LinkedInissä. Tai Kagglessa.
+
 ## Linkkejä
 
 1. [Kaggle](https://www.kaggle.com)
